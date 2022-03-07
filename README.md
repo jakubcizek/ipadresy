@@ -1,2 +1,2 @@
-- Seznam rozsahů českých operátorů vygenerovaný odtud:  [www-public.imtbs-tsp.eu](https://www-public.imtbs-tsp.eu/~maigron/RIR_Stats/RIPE_Allocations/Allocs/CZ.html)
+- Seznam rozsahů českých operátorů (jen IPv4) vygenerovaný odtud:  [www-public.imtbs-tsp.eu](https://www-public.imtbs-tsp.eu/~maigron/RIR_Stats/RIPE_Allocations/Allocs/CZ.html)
 - Seznam IP adres, které útočily na Rusko, stažený odtud: [safe-surf.ru](https://safe-surf.ru/specialists/news/676114/)
